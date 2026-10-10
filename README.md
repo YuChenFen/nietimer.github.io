@@ -8,6 +8,7 @@
 - [3D模型节点编辑器](/node-forge.html)
 - [快艇骰子](/dice.html)
 - [图片集](/photo_gallery/index.html)
+- [Pixel Music Canvas](/pixel_music_canvas.html)
 
 数学之美
 - [二进制绘制](/bitpaint.html)
