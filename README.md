@@ -19,6 +19,7 @@
 - [数字电路之美](/digital_circuit_aesthetics.html)
 - [AI简史](/ai_brief_history.html)
 - [CSS Transform](/css_transform.html)
+- [音频调音](/audio_core_eq_lab.html)
 
 设计网页
 - [设计网页0](/page_0.html)
