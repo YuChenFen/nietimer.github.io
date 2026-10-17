@@ -6,6 +6,7 @@
 - [墨韵](/ink_play.html)
 - [可视化神经网络手册](/neuro_forge.html)
 - [3D模型节点编辑器](/node_forge.html)
+- [图像节点编辑器](/pixel_flow.html)
 - [快艇骰子](/dice.html)
 - [图片集](/photo_gallery/index.html)
 - [Pixel Music Canvas](/pixel_music_canvas.html)
